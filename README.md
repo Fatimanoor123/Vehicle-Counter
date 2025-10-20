@@ -41,7 +41,6 @@ The system automatically detects vehicles in uploaded traffic videos and counts 
 5. Plot the **vehicle count vs. time graph** using Matplotlib.  
 6. Save the **resultant video** (with bounding boxes and detections) back to Google Drive.  
 
-*(Full implementation is provided in the Google Colab notebook linked below.)*
 
 ---
 
